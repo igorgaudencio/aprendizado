@@ -1,5 +1,4 @@
 def media_notas():
-    alunos = 0
     soma = 0
     media = 0
 
